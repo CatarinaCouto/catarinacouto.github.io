@@ -1,8 +1,3 @@
-/*!
- * Start Bootstrap - Agency Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
 
 // jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {
@@ -24,3 +19,12 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+//$(function() {
+//	var totalCount = 3;
+  // var num =  Math.ceil( Math.random() * totalCount );
+//document.getElementsByTagName('header').background = 'img/catarina_'+num+'.jpg';
+//document.getElementsByTagName('header').style.backgroundRepeat = "no-repeat";
+//});
+
+
