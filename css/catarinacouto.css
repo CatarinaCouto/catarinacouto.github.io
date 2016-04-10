@@ -805,3 +805,11 @@ body
 	text-align:center;
 	width: 50px;
 }
+
+
+#quote_career{
+	margin-top: 25px!important;
+    font-size: 15px!important;
+    font-weight: bold!important;
+    vertical-align: middle!important;
+}
