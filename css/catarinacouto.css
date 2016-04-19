@@ -236,6 +236,11 @@ header .intro-text .intro-heading
 	line-height:50px;
 	margin-bottom:25px
 }
+
+header .intro-text .intro-heading .heading-location
+{
+	font-size:20px!important;
+}
 @media (min-width:768px){
 	header .intro-text
 	{
@@ -257,6 +262,11 @@ header .intro-text .intro-heading
 		font-size:75px;
 		line-height:75px;
 		margin-bottom:50px
+	}
+
+	header .intro-text .intro-heading .heading-location
+	{
+		font-size:45px!important;
 	}
 }
 section
