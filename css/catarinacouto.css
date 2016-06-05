@@ -203,7 +203,7 @@ fieldset[disabled] .btn-xl.active
 }
 
 header{
-	background-image:url(../img/catarina_1.jpg);
+	background-image:url(../img/catarina_10.jpg);
 	background-repeat:none;
 	background-attachment:scroll;
 	background-position:center center;
@@ -600,8 +600,9 @@ aside.clients img
 section#contact
 {
 	background-color:#222;
-	background-image:url(../img/map-image.png);
-	background-position:center;background-repeat:no-repeat
+	background-image:url(../img/mac_apple.jpg);
+	background-position:center;background-repeat:no-repeat;
+	background-size:cover;
 }
 section#contact .section-heading
 {
@@ -822,4 +823,8 @@ body
     font-size: 15px!important;
     font-weight: bold!important;
     vertical-align: middle!important;
+}
+
+#title_career{
+	color:#fed136;
 }
